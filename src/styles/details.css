@@ -1,0 +1,71 @@
+.letter_box{
+    background-color: rgb(187, 247, 187);
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    display: flex;
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    margin-left: 5px;
+    margin-top: 35px;
+    flex-flow: column;
+    border-radius: 20px;
+}
+
+.title {
+    margin-left: 50px;
+}
+
+.authors {
+    margin-left: 50px;
+    width: 400px;
+}
+
+.letter_content {
+    margin-left: 50px;
+    border: 1px, solid, blue
+}
+
+.letter_title {
+    margin-left: 50px;
+}
+
+.topics_title {
+    margin-left: 50px;
+}
+
+.button {
+    margin-left: 50px;
+    margin-top: 75px;
+}
+
+.radio {
+    margin-left: 50px;
+}
+
+.recipient {
+    margin-left: 50px;
+    width: 400px;
+
+}
+
+.recipient_title {
+    margin-left: 50px;
+}
+
+.sent_letter_title {
+    margin-left: 50px;
+}
+
+.letter_topic_name {
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: rgb(227, 224, 224);
+    border-radius: 20px;
+
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
+.letter_topic {
+    margin-top: 10px;
+}

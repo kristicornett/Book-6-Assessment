@@ -1,0 +1,120 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Kristi",
+      "email": "kristi@cornettclan.com"
+    },
+    {
+      "id": 2,
+      "name": "Beth",
+      "email": "beth@beth.com"
+    },
+    {
+      "id": 3,
+      "name": "Kyle",
+      "email": "kylethegreat@me.com"
+    },
+    {
+      "id": 4,
+      "name": "Anna",
+      "email": "gofetch@madeupemail.com"
+    },
+    {
+      "id": 5,
+      "name": "Jack",
+      "email": "roboticschampion@champion.org"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Kallie",
+      "email": "kco@coco.net"
+    },
+    {
+      "id": 2,
+      "name": "Elias",
+      "email": "pokemonislife@e.me.com"
+    },
+    {
+      "id": 3,
+      "name": "Amelia",
+      "email": "squishmallowprincess@me.com"
+    },
+    {
+      "id": 4,
+      "name": "Ellis",
+      "email": "animeforever@awesome.me"
+    },
+    {
+      "id": 5,
+      "name": "Roen",
+      "email": "fortniterocks@comcast.net"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Best food"
+    },
+    {
+      "id": 2,
+      "name": "Video games and anime"
+    },
+    {
+      "id": 3,
+      "name": "Makeup and fashion"
+    },
+    {
+      "id": 4,
+      "name": "Theatre"
+    },
+    {
+      "id": 5,
+      "name": "School subjects"
+    }
+  ],
+  "letters": [
+    {
+      "id": 1,
+      "letter": "Hello Kallie! How are you? Curious what role you were cast as in the play?",
+      "recipientId": 1,
+      "authorId": 1,
+      "topicId": 1,
+      "date": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "letter": "    \n    Want to watch the newest anime series with me?",
+      "authorId": "3",
+      "recipientId": "4",
+      "topicId": "2",
+      "date": 1675622893274
+    },
+    {
+      "id": 3,
+      "letter": "    \n    Kallie,\n\nI would love to learn more about your upcoming theatre pursuits? What is the name of your show? What part were you cast? How long have you been doing theatre? I really enjoy going to a show and being able to see good art. Looking forward to getting to know you and watch your future endeavors.\n\nSincerely, \nBeth",
+      "authorId": "2",
+      "recipientId": "1",
+      "topicId": "4",
+      "date": 1675623569871
+    },
+    {
+      "id": 4,
+      "letter": "    \n    Do you need help figuring out the math module? I'm pretty good at math and can help you figure it out if you think that would be helpful.\n\nAnna",
+      "authorId": "4",
+      "recipientId": "5",
+      "topicId": "5",
+      "date": 1675697320054
+    },
+    {
+      "id": 5,
+      "letter": "    \n    The best the food I've had is the Chef and I.",
+      "authorId": "1",
+      "recipientId": "3",
+      "topicId": "1",
+      "date": 1675716300691
+    }
+  ]
+}
